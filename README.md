@@ -1,3 +1,9 @@
+# The Counter application looks like the below image.
+
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
 # CounterApplication
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
@@ -25,3 +31,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+
